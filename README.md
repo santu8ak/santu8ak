@@ -1,15 +1,13 @@
 # Hi 👋 My name is Santosh S
  
+##Full stack Web Developer
+
+I create websites by using standard HTML/CSS ,Integrate data from various back-end services and databases. I can also do designing(currently in learning stage)
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- I'm based in india
+- See my profile at  [portfolio](url)
+- You can contact me at (santugm2905@gmail.com)
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact:I can solve a 3*3 Rubiks'cube under 1 minute.😎
+
