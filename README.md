@@ -13,5 +13,6 @@ I create websites by using standard HTML/CSS ,Integrate data from various back-e
 
 
 #Skills
+![](https://github.com/santu8ak/santu8ak/assets/122611173/d7dff1be-e984-4042-b0ee-bb3bc8162016)
 
-(https://github.com/santu8ak/santu8ak/assets/122611173/d7dff1be-e984-4042-b0ee-bb3bc8162016)
+
