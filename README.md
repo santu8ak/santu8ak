@@ -18,9 +18,8 @@ I create websites by using standard HTML/CSS ,Integrate data from various back-e
 
 
 **Socials**
-[](https://hashnode.com/@santu12)
-[]([![image](https://github.com/santu8ak/santu8ak/assets/122611173/da28d1a5-69ea-44c6-a471-4890eec50b43)
-](https://www.linkedin.com/in/santosh-s-817b36279/)https://www.linkedin.com/in/santosh-s-817b36279/)
+![] ((https://github.com/santu8ak/santu8ak/assets/122611173/da28d1a5-69ea-44c6-a471-4890eec50b43)) (https://hashnode.com/@santu12)
+![](https://www.linkedin.com/in/santosh-s-817b36279/)https://www.linkedin.com/in/santosh-s-817b36279/)
 
 
 
