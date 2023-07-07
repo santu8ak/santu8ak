@@ -1,6 +1,6 @@
 # Hi 👋 My name is Santosh S
  
-#Full stack Web Developer
+**#Full stack Web Developer**
 
 I create websites by using standard HTML/CSS ,Integrate data from various back-end services and databases. I can also do designing(currently in learning stage)
 
