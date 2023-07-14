@@ -6,7 +6,7 @@ I create websites by using standard HTML/CSS ,Integrate data from various back-e
 
 
 - I'm based in india
-- See my profile at  [portfolio](url)
+- See my profile at  [portfolio](https://santosh-rho.vercel.app/)
 - You can contact me at (santugm2905@gmail.com)
 -  Pronouns: HE/HIM
 -  Fun fact:I can solve a 3*3 Rubiks'cube under 1 minute.😎
